@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\scott\\Desktop\\GameDevProjects\\FarkleCPP\\Farkle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0DE48D9-ED23-4BED-9027-8D3DE2A31938}|Farkle.vcxproj|C:\\Users\\scott\\Desktop\\GameDevProjects\\FarkleCPP\\Farkle\\Farkle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0DE48D9-ED23-4BED-9027-8D3DE2A31938}|Farkle.vcxproj|solutionrelative:Farkle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Farkle.cpp",
+              "DocumentMoniker": "C:\\Users\\scott\\Desktop\\GameDevProjects\\FarkleCPP\\Farkle\\Farkle.cpp",
+              "RelativeDocumentMoniker": "Farkle.cpp",
+              "ToolTip": "C:\\Users\\scott\\Desktop\\GameDevProjects\\FarkleCPP\\Farkle\\Farkle.cpp",
+              "RelativeToolTip": "Farkle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-23T05:01:03.49Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
