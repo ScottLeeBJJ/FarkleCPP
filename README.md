@@ -26,3 +26,11 @@ FarkleCPP is a text-based dice game implemented in C++. Players take turns rolli
 
 ## How to Run
 1. Clone the repository:  
+2. Open the project in your C++ IDE (Visual Studio recommended).  
+3. Compile and run `main.cpp`.  
+4. Follow on-screen instructions to play the game in the console/terminal.  
+
+## Future Enhancements
+- Introduce special dice types to provide unique strategic options.  
+- Implement a more advanced scoring system for increased complexity.  
+- Add optional AI players for single-player mode.  
