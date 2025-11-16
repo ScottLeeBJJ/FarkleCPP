@@ -28,9 +28,15 @@ void displayRules() {
         rulesFile.close();
     }
     else {
-        std::cout << "Rules file not found. Default rules used:\n";
-        std::cout << "Scoring: 1 = 100, 5 = 50, three-of-a-kind = face*100 (three 1s = 1000).\n";
-        std::cout << "A Farkle (no scoring dice) loses all turn points.\n";
+        std::cout << "1. Each player rolls 6 dice per turn.\n";
+        std::cout << "2. Scoring:\n";
+        std::cout << "   - 1s = 100 points\n";
+        std::cout << "   - 5s = 50 points\n";
+        std::cout << "   - Three-of-a-kind = face value * 100 (Three 1s = 1000 points)\n";
+        std::cout << "3. Hot Dice: If all dice scored, roll all six again.\n";
+        std::cout << "4. Farkle: No scoring dice loses all points for that turn.\n";
+        std::cout << "5. Players may choose to keep scoring dice and re-roll remaining dice.\n";
+        std::cout << "6. First player to reach 10,000 points wins.\n\n";
     }
 }
 
